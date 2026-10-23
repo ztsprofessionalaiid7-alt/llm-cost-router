@@ -1,0 +1,10 @@
+﻿.venv/
+.env
+__pycache__/
+data/raw/
+data/router.db
+data/evals.backup.jsonl
+data/results_*.jsonl
+!data/results_dev.good.jsonl
+!data/results_hidden.good.jsonl
+!data/results_baseline.jsonl
